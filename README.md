@@ -36,8 +36,8 @@
 - Authentication & Authorization
 
 ### 🗄️ Database
-- MongoDB
-- Firebase
+- Relational Databases (MySQL, PostgreSQL)
+- Non-Relational Databases / NoSQL (MongoDB, Redis)
 
 ### ☁️ Deployment & DevOps
 - Application Deployment
